@@ -2,7 +2,7 @@ applications:
 - disk_quota: 1024M
   host: Alicia
   name: Alicia
-  path: target/watson-movieapp-dialog.war
+  path: target/Alicia.war
   domain: mybluemix.net
   instances: 1
   memory: 512M
